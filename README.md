@@ -4,13 +4,13 @@
 [![Python](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![Azure](https://img.shields.io/badge/Azure-Content%20Understanding-0078D4.svg)](https://learn.microsoft.com/azure/ai-services/content-understanding/)
 
-A collection of Jupyter notebooks demonstrating the capabilities of **Azure Content Understanding** (GA version - API 2025-11-01). These demos showcase how to process and analyze documents, images, videos, and audio files using generative AI to extract structured data from unstructured content.
+A collection of Jupyter notebooks demonstrating the capabilities of **Azure Content Understanding (GA version - API 2025-11-01)** . These demos showcase how to process and analyze documents, images, videos, and audio files using generative AI to extract structured data from unstructured content.
 
 <img src="https://camo.githubusercontent.com/b6d5938c6519dbec92e6972598843f7a0ab548a567b38e4ab5d2ca34d07706b7/68747470733a2f2f6c6561726e2e6d6963726f736f66742e636f6d2f656e2d75732f617a7572652f61692d73657276696365732f636f6e74656e742d756e6465727374616e64696e672f6d656469612f6f766572766965772f636f6e74656e742d756e6465727374616e64696e672d6672616d65776f726b2d323032352e706e67236c69676874626f78">
 
 ## 🎯 Overview
 
-Azure Content Understanding is a Generally Available (GA) Azure AI service that uses generative AI to transform unstructured content into structured, searchable data. This repository contains practical, ready-to-run notebooks that demonstrate various capabilities of the service across different content types.
+** Azure Content Understanding**  is a ** Generally Available (GA)** Azure AI service that uses generative AI to transform unstructured content into structured, searchable data. This repository contains practical, ready-to-run notebooks that demonstrate various capabilities of the service across different content types.
 
 ## 🔍 What is Azure Content Understanding?
 
