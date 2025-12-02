@@ -10,7 +10,7 @@ A collection of Jupyter notebooks demonstrating the capabilities of **Azure Cont
 
 ## 🎯 Overview
 
-**Azure Content Understanding**  is a ** Generally Available (GA)** Azure AI service that uses generative AI to transform unstructured content into structured, searchable data. This repository contains practical, ready-to-run notebooks that demonstrate various capabilities of the service across different content types.
+**Azure Content Understanding**  is a **Generally Available (GA)** Azure AI service that uses generative AI to transform unstructured content into structured, searchable data. This repository contains practical, ready-to-run notebooks that demonstrate various capabilities of the service across different content types.
 
 ## 🔍 What is Azure Content Understanding?
 
