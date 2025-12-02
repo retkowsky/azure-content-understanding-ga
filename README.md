@@ -56,7 +56,7 @@ The service offers a streamlined process to reason over large amounts of unstruc
   </thead>
   <tbody>
     <tr>
-      <td><a href="1.%20Managing%20analyzers.ipynb">Managing analyzers</a></td>
+      <td><a href="[1.%20Managing%20analyzers.ipynb">Managing analyzer</a></td>
       <td>Learn how to create, configure, and manage analyzers for different content types.</td>
     </tr>
     <tr>
