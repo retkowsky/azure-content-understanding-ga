@@ -171,6 +171,7 @@ If you're migrating from preview API versions (`2024-12-01-preview` or `2025-05-
 ## 📚 Resources
 
 ### Official Documentation
+- [Azure AI Foundry Documentation](https://learn.microsoft.com/azure/ai-foundry/)
 - [Azure Content Understanding Overview](https://learn.microsoft.com/azure/ai-services/content-understanding/overview)
 - [What's New in Content Understanding](https://learn.microsoft.com/azure/ai-services/content-understanding/whats-new)
 - [Content Understanding Studio](https://aka.ms/cu-studio)
@@ -181,9 +182,9 @@ If you're migrating from preview API versions (`2024-12-01-preview` or `2025-05-
 - [Official Python Samples](https://github.com/Azure-Samples/azure-ai-content-understanding-python)
 - [Official .NET Samples](https://github.com/Azure-Samples/azure-ai-content-understanding-dotnet)
 
-### Additional Resources
+### Responsible AI
 - [Responsible AI Guidelines](https://learn.microsoft.com/azure/ai-foundry/responsible-ai/content-understanding/transparency-note)
-- [Azure AI Foundry Documentation](https://learn.microsoft.com/azure/ai-foundry/)
+
 
 ## 👤 Author
 
