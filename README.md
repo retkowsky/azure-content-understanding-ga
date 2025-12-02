@@ -189,11 +189,13 @@ If you're migrating from preview API versions (`2024-12-01-preview` or `2025-05-
 ## 👤 Author
 
 **Serge Retkowsky**
-- GitHub: [@retkowsky](https://github.com/retkowsky)
-- LinkedIn: [serger](https://www.linkedin.com/in/serger/)
-- YouTube: [@serge1840](https://www.youtube.com/@serge1840/videos)
-- Medium: [@sergems18](https://medium.com/@sergems18)
-- Role: AI & APPS Global Black Belt @ Microsoft France
+| Platform | Link |
+|----------|------|
+| GitHub | https://github.com/retkowsky |
+| LinkedIn | https://www.linkedin.com/in/serger/ |
+| YouTube | https://www.youtube.com/@serge1840/videos |
+| Medium | https://medium.com/@sergems18 |
+| Role | AI & APPS Global Black Belt @ Microsoft France | |
 
 **Last Updated**: 02-December-2025
 
