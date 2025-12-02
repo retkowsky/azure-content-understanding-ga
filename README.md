@@ -170,7 +170,7 @@ If you're migrating from preview API versions (`2024-12-01-preview` or `2025-05-
 
 ## 📚 Resources
 
-### Official Documentation
+### Documentation
 - [Azure AI Foundry Documentation](https://learn.microsoft.com/azure/ai-foundry/)
 - [Azure Content Understanding Overview](https://learn.microsoft.com/azure/ai-services/content-understanding/overview)
 - [What's New in Content Understanding](https://learn.microsoft.com/azure/ai-services/content-understanding/whats-new)
