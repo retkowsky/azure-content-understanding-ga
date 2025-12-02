@@ -71,7 +71,7 @@ Before running these notebooks, ensure you have:
    - Note your endpoint URL and API key
 
 3. **Model Deployments** (Required for prebuilt analyzers)
-   - Deploy GPT-4o-mini or GPT-4o model
+   - Deploy GPT-4.1-mini, GPT-4.1 model
    - Deploy text-embedding-3-large model
    - See [deployment documentation](https://learn.microsoft.com/azure/ai-foundry/foundry-models/concepts/deployment-types)
 
@@ -82,53 +82,6 @@ Before running these notebooks, ensure you have:
 5. **Python Environment**
    - Python 3.8 or higher
    - Jupyter Notebook or JupyterLab
-
-## 🚀 Installation
-
-1. Clone this repository:
-```bash
-git clone https://github.com/retkowsky/azure-content-understanding-ga.git
-cd azure-content-understanding-ga
-```
-
-2. Create a virtual environment:
-```bash
-python -m venv venv
-source venv/bin/activate  # On Windows: venv\Scripts\activate
-```
-
-3. Install required packages:
-```bash
-pip install -r requirements.txt
-```
-
-Required packages typically include:
-```
-azure-ai-contentsafety
-azure-identity
-requests
-python-dotenv
-pandas
-matplotlib
-seaborn
-jupyter
-```
-
-## ⚙️ Configuration
-
-1. Create a `.env` file in the root directory:
-```env
-AZURE_CONTENT_UNDERSTANDING_ENDPOINT=https://your-resource.cognitiveservices.azure.com/
-AZURE_CONTENT_UNDERSTANDING_KEY=your-api-key-here
-AZURE_TENANT_ID=your-tenant-id
-AZURE_SUBSCRIPTION_ID=your-subscription-id
-```
-
-2. Or configure directly in notebooks using environment variables
-
-3. Set up default model deployments:
-   - Use the Azure Portal or REST API to connect Content Understanding to your Foundry model deployments
-   - See [migration documentation](https://learn.microsoft.com/azure/ai-services/content-understanding/how-to/migration-preview-to-ga)
 
 ## 📓 Notebooks Overview
 
