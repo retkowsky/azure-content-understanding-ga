@@ -43,7 +43,6 @@ The service offers a streamlined process to reason over large amounts of unstruc
 - Customer-managed keys
 - Virtual networks and private endpoints
 - Transparent pricing model
-- Model deployment flexibility (GPT-4o, GPT-4o-mini)
 
 ## 📚 Python Notebooks
 
