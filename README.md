@@ -45,9 +45,46 @@ The service offers a streamlined process to reason over large amounts of unstruc
 - Transparent pricing model
 - Model deployment flexibility (GPT-4o, GPT-4o-mini)
 
-## 📚 Notebooks
+## 📚 Python Notebooks
 
-
+<table>
+  <thead>
+    <tr>
+      <th>Notebook</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="1.%20Managing%20analyzers.ipynb">Managing analyzers</a></td>
+      <td>Learn how to create, configure, and manage analyzers for different content types.</td>
+    </tr>
+    <tr>
+      <td><a href="2.%20Field%20extraction.ipynb">Field extraction</a></td>
+      <td>Demonstrates extracting predefined fields from documents using built-in schemas.</td>
+    </tr>
+    <tr>
+      <td><a href="3.%20Custom%20field%20extraction.ipynb">Custom field extraction</a></td>
+      <td>Shows how to define and extract custom fields tailored to your business needs.</td>
+    </tr>
+    <tr>
+      <td><a href="4.%20Classifier.ipynb">Classifier</a></td>
+      <td>Explains how to classify content into categories using integrated classification APIs.</td>
+    </tr>
+    <tr>
+      <td><a href="5.%20Document%20content%20extraction.ipynb">Document content extraction</a></td>
+      <td>Focuses on OCR, layout analysis, and table recognition for multi-page documents.</td>
+    </tr>
+    <tr>
+      <td><a href="6.%20Audio%20extraction.ipynb">Audio extraction</a></td>
+      <td>Covers speech-to-text transcription and audio content analysis with speaker identification.</td>
+    </tr>
+    <tr>
+      <td><a href="7.%20Video%20content%20extraction.ipynb">Video content extraction</a></td>
+      <td>Demonstrates video frame extraction, scene detection, and speech transcription from video.</td>
+    </tr>
+  </tbody>
+</table>
 
 ## 📦 Prerequisites
 
